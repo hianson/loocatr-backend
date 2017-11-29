@@ -2,15 +2,25 @@
 ### Synopsis
 Our number 1 priority is your number 2
 
-The loocatr is a mobile interface for users to find the nearest bathroom while on the go using the Yelp API. The app provides ratings, reviews, pictures, and accessiblity information allowing the user to find a bathroom that fits their needs.
+Loocatr is a mobile application that lets users find the nearest bathroom while on the go. The app integrates Yelp's API and provides ratings, reviews, pictures, and accessibility information allowing users to find a bathroom that fits their needs.
 
 ## Inspiration
 
-loocatr was inspired by the fact that I always have to use the restroom, and especially in big cities where I have a hard time finding one open to the plublic that is clean. The loocatr is also a way for people with chronic illness like crohns to feel a little less constrained and help them move through the city without the fear of not being near a bathroom they can use.
+Loocatr was created for users who need to use the restroom often, especially in big cities where clean public restrooms are difficult to find. Loocatr is also a way for people with illnesses such as Crohn's disease to feel a little less constrained, and to help them move through the city without the fear of not being near a bathroom they can use.
 
 ## Tech Stack
 
 The stack used for this project is React Native for the front-end, and a Ruby on Rails API for the backend.
+
+<p align="center">
+  <img width="300" alt="homescreen" src="https://user-images.githubusercontent.com/29417990/32300389-81fd518e-bf16-11e7-8064-de17d731e099.png">
+</p>
+<p align="center">
+  <img width="300" alt="mappage" src="https://user-images.githubusercontent.com/29417990/32300415-a49b0dbc-bf16-11e7-97fc-70216608b5ab.png">
+</p>
+<p align="center">
+  <img width="300" alt="details" src="https://user-images.githubusercontent.com/29417990/32300423-aee840dc-bf16-11e7-9c7f-fcd71fd2ad89.png">
+</p>
 
 ## Installation
 
